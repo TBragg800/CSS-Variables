@@ -1,10 +1,10 @@
-# 01-CSS Variables
+# CSS Variables
 
 ##  Repository: 
-[01-CSS Variables](https://github.com/TBragg800/)
+[CSS Variables](https://github.com/TBragg800/)
 
 ##  Deployed:
-[01-CSS Variables](https://tbragg800.github.io//)
+[CSS Variables](https://tbragg800.github.io//)
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-brightgreen.svg)
 ![GitHub repo size](https://img.shields.io/github/repo-size/TBragg800/)
