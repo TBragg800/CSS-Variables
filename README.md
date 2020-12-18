@@ -1,16 +1,13 @@
 # CSS Variables
 
 ##  Repository: 
-[CSS Variables](https://github.com/TBragg800/)
+[CSS Variables](https://github.com/TBragg800/CSS-Variables)
 
 ##  Deployed:
-[CSS Variables](https://tbragg800.github.io//)
+[CSS Variables](https://tbragg800.github.io/CSS-Variables/)
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-brightgreen.svg)
-![GitHub repo size](https://img.shields.io/github/repo-size/TBragg800/)
-
-## Walkthrough Video Demonstration: 
-# <p align="center">![Walkthrough](./assets/.gif)</p>
+![GitHub repo size](https://img.shields.io/github/repo-size/TBragg800//CSS-Variables)
 
 ## Table of Contents
   [Description](#Description)
@@ -22,13 +19,13 @@
   [Questions](#Questions)
   
 ## Description
-  This is an application of CSS Variables created by following the Javascript 30 instruction series by Wes Bos. The purpose of the exercise is to practice . To find out more about the instruction series visit the site at [Wes Bos JavaScript 30](https://javascript30.com/)
+  This is an application of CSS Variables created by following the Javascript 30 instruction series by Wes Bos. The purpose of the exercise is to learn to conrtol and dynamically update CSS variables using javascript. To find out more about the instruction series visit the site at [Wes Bos JavaScript 30](https://javascript30.com/)
 
 ## Installation
   Simply clone the repo locally.
 
 ## Usage
-  Either open the index.html file in the browser of your choice or visit the github pages hosted application at [CSS Variables](https://tbragg800.github.io//)
+  Either open the index.html file in the browser of your choice or visit the github pages hosted application at [CSS Variables](https://tbragg800.github.io/CSS-Variables/)
 
 ## License
   MIT License
@@ -59,5 +56,5 @@ SOFTWARE.
   Github: [TBragg800](http://github.com/TBragg800)
 
 ## Screenshot of deployed application
-![](./assets/.png)
+![](./assets/Scoped-CSS-Variables-and-JS.png)
 
