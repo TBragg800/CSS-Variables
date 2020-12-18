@@ -7,7 +7,7 @@
 [CSS Variables](https://tbragg800.github.io/CSS-Variables/)
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-brightgreen.svg)
-![GitHub repo size](https://img.shields.io/github/repo-size/TBragg800//CSS-Variables)
+![GitHub repo size](https://img.shields.io/github/repo-size/TBragg800/CSS-Variables)
 
 ## Table of Contents
   [Description](#Description)
@@ -52,7 +52,7 @@ SOFTWARE.
 
 ## Questions
   All questions should be submitted to the email listed below. Please consult the GitHub profile or Repo for additional concerns. 
-  Email: Ttbbragg83@gmail.com
+  Email: tbbragg83@gmail.com
   Github: [TBragg800](http://github.com/TBragg800)
 
 ## Screenshot of deployed application
